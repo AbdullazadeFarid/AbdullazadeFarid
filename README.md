@@ -1,5 +1,5 @@
 <h1>Hi ! My name is Farid</h1>
-<h3>Front-end Developer</h3> <hr>
+<h1>Front-end Developer</h1> 
 
  - <img src=https://symbl-world.akamaized.net/i/webp/42/762a4774ab6499b39df9ad6bc76b13.webp  height="20" width="20" >  I live in Sumqayit,Azerbaijan
  
