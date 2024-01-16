@@ -1,5 +1,5 @@
 <h1>Hi ! My name is Farid</h1>
-<h1>Front-end Developer</h1>
+<h3>Front-end Developer</h3>
 
 
 
