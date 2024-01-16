@@ -28,7 +28,7 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullazadefarid&langs_count=8&theme=dark" alt=abdullazadefarid />
+<img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullazadefarid&langs_count=8&theme=dark" alt=abdullazadefarid />
 
 
 
