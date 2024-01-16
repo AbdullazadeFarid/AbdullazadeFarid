@@ -1,9 +1,9 @@
-### Hi ! My name is Farid
+## Hi ! My name is Farid
 ---
-<b> Front-end Developer</b>
+### Front-end Developer
 
 ---
-##### About me
+#### About me
 
  + ![](e.png) I live in Sumqayit,Baku
 
