@@ -36,5 +36,5 @@
 <div align="center">
 <a href="https://github.com/abdullazadefarid">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullazadefarid&theme=2077" height="380em" width="500em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullazadefarid&theme=2077" height="600em" width="900em" />
 </div>
