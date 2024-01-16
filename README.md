@@ -11,7 +11,7 @@
 } ></a>
 <a href="https://github.com/abdullazadefarid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" width: 169px;></a>
 
-<h3 align="left">Skils:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png alt="HTML" width="40" height="40"/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png alt="Css" width="40" height="40"/>
@@ -27,10 +27,10 @@
 
 
 
-<h3 align="left">Stars</h3>
+<h3 align="left">My GitHub Stats</h3>
 <img align="left" height="380em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullazadefarid&langs_count=8&theme=dark" alt=abdullazadefarid />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullazadefarid&show_icons=true&locale=en&theme=dark" alt="abdullazadefarid" /></p>
+<p>&nbsp;<img align="center" height="380em" width="500em" src="https://github-readme-stats.vercel.app/api?username=abdullazadefarid&show_icons=true&locale=en&theme=dark" alt="abdullazadefarid" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
