@@ -1,5 +1,5 @@
-<h1 align="center">Hi ! My name is Farid</h1>
-<h3 align="center">Front-end Developer</h3>
+<h1>Hi ! My name is Farid</h1>
+<h3>Front-end Developer</h3>
 
 - 📫 How to reach me **abdullazadefarid@mail.ru**
 
